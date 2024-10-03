@@ -1,2 +1,2 @@
 # birthInviteFSWDC
-birthday invite, FSWDC project 01
+birthday invite, FSWDC project 02
